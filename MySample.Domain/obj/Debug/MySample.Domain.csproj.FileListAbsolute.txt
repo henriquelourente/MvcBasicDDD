@@ -1,0 +1,6 @@
+C:\Users\Henrique\Documents\Visual Studio 2015\Projects\MySample\MySample.Domain\bin\Debug\MySample.Domain.dll.config
+C:\Users\Henrique\Documents\Visual Studio 2015\Projects\MySample\MySample.Domain\bin\Debug\MySample.Domain.dll
+C:\Users\Henrique\Documents\Visual Studio 2015\Projects\MySample\MySample.Domain\bin\Debug\MySample.Domain.pdb
+C:\Users\Henrique\Documents\Visual Studio 2015\Projects\MySample\MySample.Domain\obj\Debug\MySample.Domain.dll
+C:\Users\Henrique\Documents\Visual Studio 2015\Projects\MySample\MySample.Domain\obj\Debug\MySample.Domain.pdb
+C:\Users\Henrique\Documents\Visual Studio 2015\Projects\MySample\MySample.Domain\obj\Debug\MySample.Domain.csprojResolveAssemblyReference.cache

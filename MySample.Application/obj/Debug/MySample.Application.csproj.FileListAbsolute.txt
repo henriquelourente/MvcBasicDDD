@@ -1,0 +1,9 @@
+C:\Users\Henrique\Documents\Visual Studio 2015\Projects\MySample\MySample.Application\obj\Debug\MySample.Application.csprojResolveAssemblyReference.cache
+C:\Users\Henrique\Documents\Visual Studio 2015\Projects\MySample\MySample.Application\bin\Debug\MySample.Application.dll
+C:\Users\Henrique\Documents\Visual Studio 2015\Projects\MySample\MySample.Application\bin\Debug\MySample.Application.pdb
+C:\Users\Henrique\Documents\Visual Studio 2015\Projects\MySample\MySample.Application\bin\Debug\AutoMapper.dll
+C:\Users\Henrique\Documents\Visual Studio 2015\Projects\MySample\MySample.Application\bin\Debug\MySample.Domain.dll
+C:\Users\Henrique\Documents\Visual Studio 2015\Projects\MySample\MySample.Application\bin\Debug\MySample.Domain.pdb
+C:\Users\Henrique\Documents\Visual Studio 2015\Projects\MySample\MySample.Application\bin\Debug\AutoMapper.xml
+C:\Users\Henrique\Documents\Visual Studio 2015\Projects\MySample\MySample.Application\obj\Debug\MySample.Application.dll
+C:\Users\Henrique\Documents\Visual Studio 2015\Projects\MySample\MySample.Application\obj\Debug\MySample.Application.pdb

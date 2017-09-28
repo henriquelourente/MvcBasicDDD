@@ -1,0 +1,13 @@
+C:\Users\Henrique\Documents\Visual Studio 2015\Projects\MySample\MySample.Infra.Data\bin\Debug\MySample.Infra.Data.dll
+C:\Users\Henrique\Documents\Visual Studio 2015\Projects\MySample\MySample.Infra.Data\bin\Debug\MySample.Infra.Data.pdb
+C:\Users\Henrique\Documents\Visual Studio 2015\Projects\MySample\MySample.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\Henrique\Documents\Visual Studio 2015\Projects\MySample\MySample.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Henrique\Documents\Visual Studio 2015\Projects\MySample\MySample.Infra.Data\bin\Debug\MySample.Domain.dll
+C:\Users\Henrique\Documents\Visual Studio 2015\Projects\MySample\MySample.Infra.Data\bin\Debug\MySample.Domain.pdb
+C:\Users\Henrique\Documents\Visual Studio 2015\Projects\MySample\MySample.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\Henrique\Documents\Visual Studio 2015\Projects\MySample\MySample.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Henrique\Documents\Visual Studio 2015\Projects\MySample\MySample.Infra.Data\obj\Debug\MySample.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\Henrique\Documents\Visual Studio 2015\Projects\MySample\MySample.Infra.Data\obj\Debug\MySample.Infra.Data.dll
+C:\Users\Henrique\Documents\Visual Studio 2015\Projects\MySample\MySample.Infra.Data\obj\Debug\MySample.Infra.Data.pdb
+C:\Users\Henrique\Documents\Visual Studio 2015\Projects\MySample\MySample.Infra.Data\obj\Debug\MySample.Infra.Data.Migrations.initial.resources
+C:\Users\Henrique\Documents\Visual Studio 2015\Projects\MySample\MySample.Infra.Data\obj\Debug\MySample.Infra.Data.csproj.GenerateResource.Cache
